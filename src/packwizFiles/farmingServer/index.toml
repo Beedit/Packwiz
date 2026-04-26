@@ -86,6 +86,11 @@ hash = "42a48ed20dbaadbef6c5dbbe702f49d72049dda3619c0b5211c78d64d0239be1"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
@@ -183,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "29be9153a62aee9bdd1741d7b7060c824cda6742d6531bf12947dd6447bd00a4"
 metafile = true
 
 [[files]]
@@ -351,11 +351,6 @@ hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "8ef7d55010287b46fce10e263cccf91fa345a1272428f9c74557060c5a21f735"
 metafile = true
@@ -488,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
-metafile = true
-
-[[files]]
-file = "mods/reimagined-intro.pw.toml"
-hash = "de0125073e75bedc3f390c77464929701cf0d9e804c7df4ce76216b7b2756873"
 metafile = true
 
 [[files]]
