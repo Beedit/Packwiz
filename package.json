@@ -10,7 +10,9 @@
     "typescript": "^6.0.3"
   },
   "scripts": {
-    "dev": "ts-node ./src/index.ts"
+    "dev": "ts-node ./src/index.ts",
+    "build": "npx --package typescript tsc --project ./ && rm -rf dist/packwizFiles && cp -r src/packwizFiles/ dist/packwizFiles/",
+    "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
