@@ -1,0 +1,13 @@
+name = "Totem Da Capoeira"
+filename = "Totem Da Capoeira v1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pgnuvQ2p/versions/FvIcCYUX/Totem%20Da%20Capoeira%20v1.3.zip"
+hash-format = "sha512"
+hash = "8565423dbbc3f451aa4539d183c69048e9d1e5297174310cfa7cb4954b0870e49dc1209aec122df9e99526263a9cadc1fff244938d1909a328e732dcb5984c16"
+
+[update]
+[update.modrinth]
+mod-id = "pgnuvQ2p"
+version = "FvIcCYUX"

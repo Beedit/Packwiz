@@ -81,6 +81,11 @@ hash = "d0453234a01c6b3dfc90c9aa829bf5e49a779afa4910d2ea27a4708911e4c4ec"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "42a48ed20dbaadbef6c5dbbe702f49d72049dda3619c0b5211c78d64d0239be1"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
@@ -96,6 +101,16 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "2a8390fe5190839d1206a8ac6d6fa245d821fd0c1cef5bf93ad43dab07339f5a"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "bf35ad1e9d9046861abb4d0ec6390ea3ac1e75bf39b141f0debd76ab13103e14"
 metafile = true
@@ -108,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/default-skill-trees.pw.toml"
 hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "149aa4939d024ae412427ea7b7212cd6553b03839149f7cf102bd19a48647da3"
 metafile = true
 
 [[files]]
@@ -166,6 +186,16 @@ hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "1157104e93eab88b9d3c864fe5efea64497c6c4d5614aaa370a96e94a850014b"
+metafile = true
+
+[[files]]
+file = "mods/fantasy_armor.pw.toml"
+hash = "0aa190830a677fdf4b4a2504dfdac93da98707ec8bf0fb8c80601971ab66b96e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "02d75153b9bad01ea9fc965f1bada208346276e41f99edc98053be46534677f0"
 metafile = true
@@ -211,6 +241,11 @@ hash = "a55e547f30226037a2bc5bd534904234f91189b5102a61f13596941cbf8d5654"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "ebc2028adcda30978da8834b5bd20aa5bd4c4fbb1ab773474a6d848eb680fbad"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
 metafile = true
@@ -223,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "cdc66a084161b07f0f07e8a445272862270f1f7be71a8ec94959365395eadc86"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
@@ -311,6 +351,11 @@ hash = "4842a349ba8e18407a4e32ef184ad1d2a437ff8e5b0c158391b6225216b4b8ce"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "8ef7d55010287b46fce10e263cccf91fa345a1272428f9c74557060c5a21f735"
 metafile = true
@@ -338,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "714334a18735cf73c4ac91d2d465845f3e22d4fcf04eebd3e0fd2579afb6d8a2"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
 metafile = true
 
 [[files]]
@@ -426,6 +476,11 @@ hash = "c089071bf05337828e521ff008b962451e73d3eeb886b6adee4d57e177318784"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
+metafile = true
+
+[[files]]
 file = "mods/reactive-music.pw.toml"
 hash = "55d78f5e33b8ffff7469156e6727a389e1dcb8e5f496408bca6c0e4ad116b225"
 metafile = true
@@ -433,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
+metafile = true
+
+[[files]]
+file = "mods/reimagined-intro.pw.toml"
+hash = "de0125073e75bedc3f390c77464929701cf0d9e804c7df4ce76216b7b2756873"
 metafile = true
 
 [[files]]
@@ -448,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/seamless.pw.toml"
 hash = "3492ca74cdc795dbcfa4cff6cc9252303e0cd099b55959901b40d4bac9480ff4"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
 
 [[files]]
@@ -486,6 +551,11 @@ hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "1d0e54184bf7982547240482dd90ae24a34eea89927ca3b3f23b37e7b2c17574"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "91bbff2b5c16ac3ed35369f391ae7f05d2cc4a0624a7e88277698935e9212604"
 metafile = true
@@ -508,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
@@ -536,6 +611,11 @@ hash = "0dfbfa57ff345df01d73f36c13aab28f9dfd86071b45472bd1d9d803f4bf9790"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
+metafile = true
+
+[[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "41fa2e2fabc81ff476dbe940ab94818c25cb5553c81d8f3441396a80bfdbdb41"
 metafile = true
@@ -546,6 +626,31 @@ hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enhanced-audio.pw.toml"
+hash = "20f38b2613949e03ae9750d859da318044a3fb26d49d4e996293ad0425f6afbf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "e5f49f7a3b49f7a03f667c5c5ca43826e7abbfcc0a9fe2499af89b461fac0819"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"
 hash = "ee6875d563832c7d3eb382e3ca1d93b8f8cf73888f21a9a861f4fe2e00809d5c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "841804ccbe93cc1c68a1565ec47bb0c56e8e42b56e3d6caf4ef5d2fdf30342a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/totem-da-capoeira.pw.toml"
+hash = "597609a5b1395b5956e1dfbbbf2bbac815cdcc55f76bf89f262afb19f7d15966"
 metafile = true
