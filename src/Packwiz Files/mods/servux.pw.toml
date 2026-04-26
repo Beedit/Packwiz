@@ -1,0 +1,13 @@
+name = "Servux"
+filename = "servux-fabric-1.21-0.3.16.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/KnpV801L/servux-fabric-1.21-0.3.16.jar"
+hash-format = "sha512"
+hash = "f174d85a2b86096f14fad29a9f05a51be24c8b4a02400319a8e0841ea4841121d0cd7a71a2360a414a638f1f8ee08b42261e20988462f98faee5702897c3d38a"
+
+[update]
+[update.modrinth]
+mod-id = "zQhsx8KF"
+version = "KnpV801L"

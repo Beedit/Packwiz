@@ -1,0 +1,13 @@
+name = "Immersive Overlays"
+filename = "immersiveoverlays-1.6.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/LUXKLiWT/immersiveoverlays-1.6.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "1d40b62e8a435e143a1d63d425efde1a567d18411b98389547a03b44becdf79304730db550dd4c177c222da8b8abc47daad6174f096b728ba7793362228bef68"
+
+[update]
+[update.modrinth]
+mod-id = "PKoLkD98"
+version = "LUXKLiWT"

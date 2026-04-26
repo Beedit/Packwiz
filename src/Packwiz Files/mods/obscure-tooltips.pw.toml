@@ -1,0 +1,13 @@
+name = "Obscure Tooltips"
+filename = "obscure_tooltips-fabric-1.21.1-4.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5vetjDBY/versions/mBe8F11V/obscure_tooltips-fabric-1.21.1-4.2.2.jar"
+hash-format = "sha512"
+hash = "83ec926df957519589101e02f9b84be23d4d70ac2a9277552d46ebca8dfb90d7c3f45a0548f820e450cb779b7c8665d955944512a2e48611028d80a9db33e889"
+
+[update]
+[update.modrinth]
+mod-id = "5vetjDBY"
+version = "mBe8F11V"

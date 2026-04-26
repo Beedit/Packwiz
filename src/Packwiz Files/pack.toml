@@ -1,0 +1,13 @@
+name = "Minecraft Mod Pack"
+author = "strawberrypip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a63dc2834e4d9dc214b603a62365a80b0846f1c99a24c2904331a43f7be646f0"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.21.1"

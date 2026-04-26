@@ -1,0 +1,13 @@
+name = "Exordium"
+filename = "exordium-fabric-1.4.2-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DynYZEae/versions/yhV8WpQg/exordium-fabric-1.4.2-mc1.21.jar"
+hash-format = "sha512"
+hash = "ea39a59a3e0baf4f74b366a5f1f56c3cb6ecfcc20703ffb7600da8253b6bcc59542b3fc0f5b2ba3e646bcc204ae7cc492db6a40f86754bc08a62bc83351cdb84"
+
+[update]
+[update.modrinth]
+mod-id = "DynYZEae"
+version = "yhV8WpQg"

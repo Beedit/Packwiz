@@ -1,0 +1,13 @@
+name = "Origins"
+filename = "Origins-1.13.0-pre.2+mc.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/5o5sFcLS/Origins-1.13.0-pre.2%2Bmc.1.21.1.jar"
+hash-format = "sha512"
+hash = "e62131a8e365097f3572191bf004e47f76e596a21345a2f85acbfd5bcb55ebaed9e0a9e1eec7960718a886dfcd39eae30bfea16eb5b15e826fddcdd1b5565865"
+
+[update]
+[update.modrinth]
+mod-id = "3BeIrqZR"
+version = "5o5sFcLS"

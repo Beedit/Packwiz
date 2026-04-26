@@ -1,0 +1,13 @@
+name = "Rustic Delight"
+filename = "rusticdelight-fabric-1.21.1-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/foa4fGIH/versions/LtCySLDC/rusticdelight-fabric-1.21.1-1.5.2.jar"
+hash-format = "sha512"
+hash = "189cd318a4997d88c7cc86448cb61491868442e3586b9b8b15c6e6b0615f239c344f24c23f3b1905712a2a57bc11a724ef65d4c988a34af5bc1c24460fce0903"
+
+[update]
+[update.modrinth]
+mod-id = "foa4fGIH"
+version = "LtCySLDC"
