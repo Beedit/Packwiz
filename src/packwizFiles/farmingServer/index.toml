@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "59776419daa3d717dd9f1ea4dac829b5a9e556c531ae9a0a35330f163ad405e4"
+hash = "0e81ee9eb7c1eb28915924bc9212ee95b40dabf37d9f336d0791486d039951a7"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "bf35ad1e9d9046861abb4d0ec6390ea3ac1e75bf39b141f0debd76ab13103e14"
+hash = "8ad27422f15037bae7385bdbc881896c5c3716286f126eab44e6d546476005db"
 metafile = true
 
 [[files]]
@@ -128,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/default-skill-trees.pw.toml"
 hash = "bd5044206dc78d8b5dba24aa8f64ef27f97da205e464ed678d818f2efa29c5a6"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "149aa4939d024ae412427ea7b7212cd6553b03839149f7cf102bd19a48647da3"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "92c83bd7e56f89170be549904a0ba2dd54de6349b0fefa5ffd48d50db071da05"
+hash = "cb60569bb515776a389d2e6f9073240b88b1385fa74a332921931031ef744380"
 metafile = true
 
 [[files]]
@@ -182,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
