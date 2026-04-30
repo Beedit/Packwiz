@@ -76,11 +76,6 @@ hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d3e9d79aae0dc39496f96fb35b06d21afcfde6da5a0bc7cf9f17a99c705a978e"
 metafile = true
