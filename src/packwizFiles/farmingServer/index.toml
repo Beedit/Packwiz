@@ -41,6 +41,16 @@ hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7f79c9e187629f8370f79bf9704e34d1cd85c59fbc0a837f44bab73308485c4d"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "0fef7a2e43b7c9ec1306a6750cc734214df1be9768a0d4ffaa011508fb706260"
 metafile = true
@@ -93,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "e96370ea7c067d5c14d6ccc0de9577379484efb8e1cb0d5321cee14d1bae2243"
 metafile = true
 
 [[files]]
@@ -192,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "02d75153b9bad01ea9fc965f1bada208346276e41f99edc98053be46534677f0"
+hash = "d8a3ff8233d4c0bdad1fbe6f628167d6abdbd85a9649812effe327500978fd46"
 metafile = true
 
 [[files]]
@@ -207,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/field-guide.pw.toml"
-hash = "7eb517ca0fcba8b3e33c5f0385db9ce400c4357c63f5652b5a6edaeb3ea956fa"
+hash = "a4936ea492a6f45762d16c0516c87693d39a1c6bea0ebab9b1ed1e073db842e5"
 metafile = true
 
 [[files]]
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "66bdc905c0db7ecdcca5b85451aca40b872fdb87ea681e270401f418ef4d70e5"
+metafile = true
+
+[[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
 metafile = true
 
 [[files]]
@@ -381,6 +401,11 @@ hash = "230b1f5cd118accacf41f268e122bd420420d9e5248d43513090804739a832f3"
 metafile = true
 
 [[files]]
+file = "mods/music-sync.pw.toml"
+hash = "31b181682d8a73ec55c4514344107e56b028fa93fd9f80b6a679ee5a7091a96c"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "50d4c9a5a97937e4d9309b28c3cb283832eca78a6425644198bfd8dbf49d3bdd"
 metafile = true
@@ -398,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "467eadd218b315067bd37e3af44d7719f77045cd6d3059bbf89e2ee7ce6b8e4f"
+metafile = true
+
+[[files]]
+file = "mods/no-realms-button.pw.toml"
+hash = "82c5501ec0543e249a0b3efcd3b66e517c9842aeeebd807a9c40fb7738d5a647"
 metafile = true
 
 [[files]]
@@ -432,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
 metafile = true
 
 [[files]]
@@ -466,6 +496,11 @@ hash = "c089071bf05337828e521ff008b962451e73d3eeb886b6adee4d57e177318784"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
 metafile = true
@@ -478,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
 metafile = true
 
 [[files]]
@@ -508,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "629770927661b935fa5b996bf32f9a023a6376061c24fc2f5c82d87e8072eb76"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "83b5a1c0b39aa94492a13f319c097ff8e7e55a6718e287e5d73b32f7500f1727"
 metafile = true
 
 [[files]]
