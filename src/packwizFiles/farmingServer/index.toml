@@ -296,11 +296,6 @@ hash = "66bdc905c0db7ecdcca5b85451aca40b872fdb87ea681e270401f418ef4d70e5"
 metafile = true
 
 [[files]]
-file = "mods/infinite-music.pw.toml"
-hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
