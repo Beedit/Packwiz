@@ -451,11 +451,6 @@ hash = "24c43770e8430d6b88146181cd68ca0ee411ec3b018985bbad2036d9ba2e4af3"
 metafile = true
 
 [[files]]
-file = "mods/oceans-delight.pw.toml"
-hash = "32183e9dc711efb89de84b7e69c79c8734b09dbb9c2301ce805b1ac92f1ae04a"
-metafile = true
-
-[[files]]
 file = "mods/origins.pw.toml"
 hash = "55c77068f58d1301b4ab3e6287629b63e427df4994a52b6e1eecc844ce62b6d3"
 metafile = true
