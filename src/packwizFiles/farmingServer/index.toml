@@ -126,6 +126,11 @@ hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
+hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "8ad27422f15037bae7385bdbc881896c5c3716286f126eab44e6d546476005db"
 metafile = true
@@ -603,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
